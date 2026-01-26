@@ -2,6 +2,6 @@
   "version": "1.0.1",
   "releaseDate": "2026-01-26T15:22:00Z",
   "downloadUrl": "https://github.com/painfultruths/WhereToNext_Release/releases/download/v1.0.1/WhereToNext_Setup.exe",
-  "changelog": "- Initial Release\n- Career Mode with Financial System\n- Real-time Flight Tracking\n- Integrated Navdata & Airport Database",
+  "changelog": "1.0.1 Initial Public Release\n    Added additional aircraft.\n    Improved job generation algorithm.\n    Current Job page revised.\n    Converted all aircraft to use metric in the database.",
   "isMandatory": false
 }
