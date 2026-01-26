@@ -1,0 +1,7 @@
+{
+  "version": "1.0.0",
+  "releaseDate": "2026-01-26T12:00:00Z",
+  "downloadUrl": "https://github.com/painfultruths/WhereToNext_Release/releases/download/v1.0.0/WhereToNext_Setup.exe",
+  "changelog": "- Initial Release\n- Career Mode with Financial System\n- Real-time Flight Tracking\n- Integrated Navdata & Airport Database",
+  "isMandatory": false
+}
