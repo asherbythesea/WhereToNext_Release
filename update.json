@@ -1,7 +1,7 @@
 {
-  "version": "1.0.1",
-  "releaseDate": "2026-01-26T15:22:00Z",
-  "downloadUrl": "https://github.com/painfultruths/WhereToNext_Release/releases/download/v1.0.1/WhereToNext_Setup.exe",
-  "changelog": "1.0.1 Initial Public Release\n    Added additional aircraft.\n    Improved job generation algorithm.\n    Current Job page revised.\n    Converted all aircraft to use metric in the database.",
+  "version": "1.0.2",
+  "releaseDate": "2026-01-29T00:00:00Z",
+  "downloadUrl": "https://github.com/asherbythesea/WhereToNext_Release/releases/download/v1.0.2/WhereToNext_Setup.exe",
+  "changelog": "1.0.2 Bug Fixes & Improvements\n    Fixed page loading issues (Marketplace, Logbook, etc. now load correctly on first visit).\n    Added auto-start flight when taking off with all pre-flight checks passed.\n    Added airport markers with labels on Jobs page map.\n    Improved landing telemetry capture reliability.",
   "isMandatory": false
 }
