@@ -1,6 +1,6 @@
 END USER LICENSE AGREEMENT (EULA)
 
-Software Name: WhereToNext Developer: asherbythesea k Date: 2026-01-30
+Software Name: WhereToNext Developer: asherbythesea Date: 2026-01-30
 
 1. AGREEMENT By downloading, installing, or using WhereToNext ("the Software"), you agree to be bound by the terms of this Agreement. If you do not agree to the terms of this Agreement, do not install or use the Software.
 
