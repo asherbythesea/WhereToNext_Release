@@ -1,7 +1,7 @@
 {
-  "version": "1.0.3",
-  "releaseDate": "2026-01-29T00:00:00Z",
-  "downloadUrl": "https://github.com/asherbythesea/WhereToNext_Release/releases/download/v1.0.3/WhereToNext_Setup.exe",
-  "changelog": "1.0.3 UI Improvements\n    Fixed onboarding dialog sizing - all screens now display properly.\n    Swapped Back/Next button order in onboarding for better UX.",
+  "version": "1.0.4",
+  "releaseDate": "2026-01-31T00:00:00Z",
+  "downloadUrl": "https://github.com/asherbythesea/WhereToNext_Release/releases/download/v1.0.4/WhereToNext_Setup.exe",
+  "changelog": "1.0.4 Bug Fixes\\n- Fixed free flight issue with accepted jobs\\n- Fixed landing detection at wrong airports\\n- Fixed free flight aircraft ownership check\\n- Fixed marketplace Buy button",
   "isMandatory": false
 }
