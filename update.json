@@ -2,6 +2,6 @@
   "version": "1.0.4",
   "releaseDate": "2026-01-31T00:00:00Z",
   "downloadUrl": "https://github.com/asherbythesea/WhereToNext_Release/releases/download/v1.0.4/WhereToNext_Setup.exe",
-  "changelog": "1.0.4 Bug Fixes\n- Fixed free flight issue with accepted jobs\n- Fixed landing detection at wrong airports\n- Fixed free flight aircraft ownership check\n- Fixed marketplace Buy button",
+  "changelog": "1.0.4 Bug Fixes. See the changelog at https://getwheretonext.com/changelog.html",
   "isMandatory": false
 }
